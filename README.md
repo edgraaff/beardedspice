@@ -69,6 +69,7 @@ From the preferences tab, uncheck any types of webpages that you don't want Bear
 
 
 ### Supported Sites
+- [1Live](http://1live.de/)
 - [8Tracks](http://8tracks.com)
 - [22Tracks](http://22tracks.com)
 - [Amazon Music](https://www.amazon.com/gp/dmusic/cloudplayer/player)
